@@ -4,7 +4,6 @@ public class EgyeniKonfliktusKezeles {
         String nev1 = "DM";
         String nev2 = "xy";
         String nev3;
-
         
     }
     
